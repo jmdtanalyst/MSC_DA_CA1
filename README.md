@@ -1,19 +1,24 @@
-# MSC_DA_CA1
+# MSC_DA_CA1 - Exploring the Link Between Population Trends and Renting Prices
 
-Population in Ireland
+Population in Ireland X Cost of Renting
 
-This repository contains code and data for a project to model and analyze the population of Ireland. The project uses data from the Central Statistics Office (CSO) of Ireland, which is available at https://data.cso.ie/.
+This repository contains code and data for a project to model and analyze the population of Ireland and Renting Prices. The project uses data from the following sources:
+* Central Statistics Office (CSO) of Ireland, which is available at https://data.cso.ie/ 
+* IRELAND'S OPEN DATA PORTAL, which is available at https://data.gov.ie.
+* 
+The aim of this project is to explore the link between population trends and renting prices in Ireland. To achieve this goal, I will investigate how population growth, immigration, migration, and other population factors affect the cost of renting a home in Ireland.
+
+Understanding the link between population trends and renting prices will help the government to make policy decisions to help people and to develop policies that increase the supply of affordable housing or provide financial assistance to renters who are struggling to afford their rent.
 
 The project is focused on the following areas of interest:
 
-    Annual population change
-    Immigration and migration
-    Population forecasting
+    How has the population of Ireland changed in recent years?
+    How have renting prices changed in recent years?
+    Relationship between population growth and renting prices in Ireland
+    Population trends can be used to predict future rent prices in Ireland.
+
     
-
-The goal of the project is to identify possible issues/problems with the current population of Ireland and to make predictions/classifications regarding the future population.
-
-The project uses a variety of statistical methods, including regression and classification, to analyze the data. The project also includes a critical analysis of the domain of population modeling and forecasting.
+A variety of statistical methods will be used to analyze it. For example, you could use regression analysis to model the relationship between population growth and renting prices. You could also use forecasting methods to predict future rent prices based on population trends.
 
 To contribute to this project:
 
