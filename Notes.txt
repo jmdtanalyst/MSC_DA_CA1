@@ -2,3 +2,5 @@ Source:
 https://data.cso.ie/
 F1001 - Population at Each Census - Last Updated: 29/06/2023 11:00:00
 
+RTB_Avg_Monthly_Rent
+https://data.gov.ie/dataset/ria02-rtb-average-monthly-rent-report
