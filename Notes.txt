@@ -1,0 +1,4 @@
+Source:
+https://data.cso.ie/
+F1001 - Population at Each Census - Last Updated: 29/06/2023 11:00:00
+
