@@ -4,3 +4,19 @@ F1001 - Population at Each Census - Last Updated: 29/06/2023 11:00:00
 
 RTB_Avg_Monthly_Rent
 https://data.gov.ie/dataset/ria02-rtb-average-monthly-rent-report
+
+
+https://www.cso.ie/en/releasesandpublications/ep/p-rsdgi/regionalsdgsireland2017/nt/#indicatorTitle_175170
+
+
+
+Iriland Population Forecast
+
+https://www.worldometers.info/world-population/europe-population/
+
+
+https://github.com/vikaspabla/WorldPopulation2023-ExploratoryDataAnalysis/blob/main/WorldPopulation2023_ExploratoryDataAnalysis.ipynb
+
+
+https://www.kaggle.com/code/hasibalmuzdadid/world-population-analysis
+
