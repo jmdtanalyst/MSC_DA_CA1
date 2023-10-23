@@ -1,25 +1,28 @@
-# MSC_DA_CA1 - Exploring the Link Between Population Trends and Renting Prices
+# MSC_DA_CA1 - Exploring the Link Between Population Trends and Crime Rates in Ireland
 
-Population in Ireland X Cost of Renting
+Note: This project is currently in development.
+Jupyter Notebook for this project: MSC_DA_CA1_Jose_Mario.ipynb
 
-This repository contains code and data for a project to model and analyze the population of Ireland and Renting Prices. The project uses data from the following sources:
-* Central Statistics Office (CSO) of Ireland, which is available at https://data.cso.ie/ 
-* IRELAND'S OPEN DATA PORTAL, which is available at https://data.gov.ie.
-* 
-The aim of this project is to explore the link between population trends and renting prices in Ireland. To achieve this goal, I will investigate how population growth, immigration, migration, and other population factors affect the cost of renting a home in Ireland.
+Abstract
 
-Understanding the link between population trends and renting prices will help the government to make policy decisions to help people and to develop policies that increase the supply of affordable housing or provide financial assistance to renters who are struggling to afford their rent.
+Population growth can have both positive and negative impacts on a country. This project explores the link between population trends and crime rates in Ireland. It utilizes data from the Central Statistics Office of Ireland and the Garda Síochána to answer key questions, including how the population of Ireland has changed, the relationship between population growth and recorded crimes in the last 20 years, and whether population trends can be used to predict future crime rates. Various regression models, such as multiple linear regression, lasso and ridge regularization, and decision tree regression, are compared to find the most accurate model for prediction.
 
-The project is focused on the following areas of interest:
+Keywords: population growth, crime rates, Ireland, crime prevention, policy
 
-    How has the population of Ireland changed in recent years?
-    How have renting prices changed in recent years?
-    Relationship between population growth and renting prices in Ireland
-    Population trends can be used to predict future rent prices in Ireland.
+This project aims to explore the relationship between population trends and crime rates in Ireland. It uses data from the Central Statistics Office of Ireland and the Garda Síochána. Key questions include changes in Ireland's population, the impact of population growth on recorded crimes, and whether population trends can predict future crime rates.
+
+1. Data Preparation and Visualization
+2. Programming for Data Analytics
+3. Statistics for Data Analytics
+4. Machine Learning for Data Analysis
+
+The project employs various regression models to analyze the relationship between population growth and crime rates. Multiple linear regression, lasso and ridge regularization, and decision tree regression models are compared to determine the most accurate prediction model.
+Data Sources
+
+    Recorded Crime Data: Garda Síochána/Central Statistics Office of Ireland
+    Population Data: Central Statistics Office of Ireland
 
     
-A variety of statistical methods will be used to analyze it. For example, you could use regression analysis to model the relationship between population growth and renting prices. You could also use forecasting methods to predict future rent prices based on population trends.
-
 To contribute to this project:
 
     Fork this repository.
@@ -29,4 +32,4 @@ To contribute to this project:
     Push your branch to your forked repository.
     Create a pull request to merge your changes into this repository.
 
-Please note: This project is still under development.
+Just so you know, this project is still under development.
