@@ -1,7 +1,10 @@
 # MSC_DA_CA1 - Exploring the Link Between Population Trends and Crime Rates in Ireland
 
 Note: This project is currently in development.
+
 Jupyter Notebook for this project: MSC_DA_CA1_Jose_Mario.ipynb
+
+Report: MSC_DA_CA1_Jose_Mario.docx
 
 Abstract
 
