@@ -1,7 +1,5 @@
 # MSC_DA_CA1 - Exploring the Link Between Population Trends and Crime Rates in Ireland
 
-Note: This project is currently in development.
-
 Jupyter Notebook for this project: MSC_DA_CA1_Jose_Mario.ipynb
 
 Report: MSC_DA_CA1_Jose_Mario.docx
@@ -20,6 +18,7 @@ This project aims to explore the relationship between population trends and crim
 4. Machine Learning for Data Analysis
 
 The project employs various regression models to analyze the relationship between population growth and crime rates. Multiple linear regression, lasso and ridge regularization, and decision tree regression models are compared to determine the most accurate prediction model.
+
 Data Sources
 
     Recorded Crime Data: Garda Síochána/Central Statistics Office of Ireland
