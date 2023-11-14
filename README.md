@@ -1,10 +1,13 @@
-# MSC_DA_CA1 - Exploring the Link Between Population Trends and Crime Rates in Ireland
+# Exploring the Link Between Population Trends and Crime Rates in Ireland
+
+![image](https://github.com/jmdtanalyst/MSC_DA_CA1/assets/147097604/5a8350b0-54d3-4686-ba90-317b5d6d799f)
+
 
 Jupyter Notebook for this project: MSC_DA_CA1_Jose_Mario.ipynb
+[MSC_DA_CA1_Jose_Mario.docx]([https://github.com/jmdtanalyst/MSC_DA_CA1/blob/main/MSC_DA_CA1_Jose_Mario.docx)
+### Report: MSC_DA_CA1_Jose_Mario.docx
 
-Report: MSC_DA_CA1_Jose_Mario.docx
-
-Abstract
+Description
 
 Population growth can have both positive and negative impacts on a country. This project explores the link between population trends and crime rates in Ireland. It utilizes data from the Central Statistics Office of Ireland and the Garda Síochána to answer key questions, including how the population of Ireland has changed, the relationship between population growth and recorded crimes in the last 20 years, and whether population trends can be used to predict future crime rates. Various regression models, such as multiple linear regression, lasso and ridge regularization, and decision tree regression, are compared to find the most accurate model for prediction.
 
