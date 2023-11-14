@@ -4,10 +4,10 @@
 
 
 Jupyter Notebook for this project: MSC_DA_CA1_Jose_Mario.ipynb
-[MSC_DA_CA1_Jose_Mario.docx]([https://github.com/jmdtanalyst/MSC_DA_CA1/blob/main/MSC_DA_CA1_Jose_Mario.docx)
-### Report: MSC_DA_CA1_Jose_Mario.docx
+### Report File:
+[MSC_DA_CA1_Jose_Mario.docx](https://github.com/jmdtanalyst/MSC_DA_CA1/blob/main/MSC_DA_CA1_Jose_Mario.docx)
 
-Description
+### Description
 
 Population growth can have both positive and negative impacts on a country. This project explores the link between population trends and crime rates in Ireland. It utilizes data from the Central Statistics Office of Ireland and the Garda Síochána to answer key questions, including how the population of Ireland has changed, the relationship between population growth and recorded crimes in the last 20 years, and whether population trends can be used to predict future crime rates. Various regression models, such as multiple linear regression, lasso and ridge regularization, and decision tree regression, are compared to find the most accurate model for prediction.
 
@@ -22,13 +22,13 @@ This project aims to explore the relationship between population trends and crim
 
 The project employs various regression models to analyze the relationship between population growth and crime rates. Multiple linear regression, lasso and ridge regularization, and decision tree regression models are compared to determine the most accurate prediction model.
 
-Data Sources
+### Data Sources
 
     Recorded Crime Data: Garda Síochána/Central Statistics Office of Ireland
     Population Data: Central Statistics Office of Ireland
 
     
-To contribute to this project:
+#### To contribute to this project:
 
     Fork this repository.
     Clone the forked repository to your local machine.
@@ -37,4 +37,3 @@ To contribute to this project:
     Push your branch to your forked repository.
     Create a pull request to merge your changes into this repository.
 
-Just so you know, this project is still under development.
